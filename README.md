@@ -1,15 +1,15 @@
-🧠 Mental Health in the Tech Workplace
+# 🧠 Mental Health in the Tech Workplace
 
 End-to-End Data Science Project
 
-📌 Project Overview
+# 📌 Project Overview
 
 Mental health is a critical but often under-discussed issue in the technology sector.
 This project analyses survey data collected from professionals working in tech to understand factors influencing mental health treatment, workplace support, and employee well-being.
 
 The project demonstrates a complete data science workflow, from raw CSV data to insights and machine learning, and is designed as a portfolio project to showcase practical skills in Python, data analysis, visualisation, and modelling.
 
-🎯 Objectives
+# 🎯 Objectives
 
 Clean and preprocess a real-world dataset
 
@@ -21,7 +21,7 @@ Build a machine learning model to predict treatment-seeking behaviour
 
 Extract meaningful insights and communicate findings clearly
 
-🗂️ Dataset
+# 🗂️ Dataset
 
 Source: Kaggle
 
@@ -32,9 +32,9 @@ Format: CSV
 Description:
 A survey dataset capturing demographic information, workplace environment, family history, and mental health treatment among tech professionals.
 
-📎 Data Source: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+# 📎 Data Source: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Programming Language: Python
 
@@ -48,7 +48,7 @@ scikit-learn (machine learning)
 
 Environment: Jupyter Notebook
 
-🔍 Project Workflow
+# 🔍 Project Workflow
 1️⃣ Data Loading & Inspection
 
 Imported CSV data
@@ -101,7 +101,7 @@ Classification report
 
 Confusion matrix
 
-📊 Key Findings & Insights
+# 📊 Key Findings & Insights
 
 Employees with a family history of mental illness are significantly more likely to seek treatment
 
@@ -111,7 +111,7 @@ Gender-based differences exist in reported treatment rates
 
 Psychosocial factors are more influential than age alone
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 
 Implement advanced models (Random Forest, Gradient Boosting)
 
@@ -121,7 +121,7 @@ Explore company-size or region-based trends
 
 Deploy findings in an interactive dashboard
 
-👤 Author
+# 👤 Author
 
 This project was created as part of a personal portfolio to demonstrate applied data science skills using real-world data.
 
